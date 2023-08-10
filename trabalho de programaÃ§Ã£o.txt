@@ -1,0 +1,22 @@
+BANCO DE DADOS 
+É um grupo de informacoes organizadas e estruturadas que geralmente estao armazenadas eletronicamente em um sistema de computador em que é controlado por um sistema de gerenciamento de banco de dados.
+
+REDE NEURAL ARTIFICIAL
+É um método que ensina computadores a processar dados de uma forma inspirada pelo cérebro humano, cria um sistema adaptativo que os computadores usam para aprender com os erros e se aprimorar continuamente, ou seja, aprenede pela experiência que vai adquirindo, sendo assim  podem entender dados não estruturados e fazer observações gerais sem receber treinamento explícito. 
+
+ZERO RATING
+O Zero Rating é uma prática realizada pelas operadoras e algumas empresas de tecnologia em que é permitido o acesso sem cobrar o tráfego de dados móveis a alguns serviços especificos, ou seja, cliente pode esgotar seu pacote e mesmo assim continue usando o serviço especifico sem custos adicionais.
+
+NUVEM
+A nuvem é um modelo em que  os usuarios possam armazenar e gerenciar dados, executar aplicativos e fornecer conteúdos ou serviços de forma remota portanto elimina a necessidade de comprar e gerenciar sua própria infraestrutura de armazenamento de dados sendo assim ofere agilidade de utiliazar em qualquer momento.
+
+NEUTRALIDADE DA REDE
+É o conceito em que o tráfego da internet deve ser tratado igualmente, sem discriminação independentemente do emissor, recipiente, tipo ou conteúdo. A liberdade dos usuários de internet não possa ser restringida pelo favorecimento ou desfavorecimento de transmissões do tráfego da internet associado a conteúdos, serviços, aplicações ou dispositivos particulares.
+
+Fontes:
+https://www.oracle.com/br/database/what-is-database/
+https://aws.amazon.com/pt/what-is/neural-network/
+https://politics.org.br/edicoes/zero-rating-uma-introdu%C3%A7%C3%A3o-ao-debate
+https://aws.amazon.com/pt/what-is/cloud-storage/
+https://agenciabrasil.ebc.com.br/geral/noticia/2017-12/entenda-o-que-e-neutralidade-de-rede-e-como-e-o-seu-funcionamento-no-brasil
+
