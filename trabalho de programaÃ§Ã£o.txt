@@ -13,10 +13,27 @@ A nuvem é um modelo em que  os usuarios possam armazenar e gerenciar dados, exe
 NEUTRALIDADE DA REDE
 É o conceito em que o tráfego da internet deve ser tratado igualmente, sem discriminação independentemente do emissor, recipiente, tipo ou conteúdo. A liberdade dos usuários de internet não possa ser restringida pelo favorecimento ou desfavorecimento de transmissões do tráfego da internet associado a conteúdos, serviços, aplicações ou dispositivos particulares.
 
+MPF investiga se algoritmo do INSS nega aposentgadoria sem análise de mérito
+O Ministério Público Federal (MPF) está investigando o algoritmo usado pelo Instituto Nacional do Seguro Social (INSS) para determinar se está negando benefícios de aposentadoria sem a devida análise de mérito.
+A investigação foi motivada por denúncias de aposentados que alegam que seus benefícios foram negados sem qualquer revisão de seus requerimentos.
+O algoritmo em questão supostamente usa inteligência artificial para analisar pedidos de benefícios de aposentadorias, mas não está claro como o algoritmo funciona ou quais fatores específicos ele leva em consideração. Desse modo, é possivel perceber que o algoritmo não foi correto.
+
+
+Análise de crédito pode usar algoritmos?
+As instituições financeiras estão cada vez mais adotando o Deep Learning como uma ferramenta poderosa para análise de riscos na concessão de crédito. Com o auxílio de redes neurais, o sistema é capaz de processar enormes quantidades de dados e identificar padrões ocultos que podem ser indicativos de um risco maior ou menor.
+Além disso, a aprendizagem profunda possibilita uma análise mais precisa e personalizada do perfil de cada cliente, levando em consideração informações como histórico de crédito, renda, histórico de pagamento, entre outros. Isso permite que as instituições financeiras ofereçam soluções mais adequadas às necessidades individuais de cada cliente.
+Assim, com um sistema de pontuação baseado em algoritmos de aprendizado profundo, as empresas podem avaliar o risco de cada operação de crédito, permitindo uma concessão mais segura e precisa. Isso ajuda a reduzir o risco de inadimplência e a maximizar o retorno sobre o investimento.
+
+
+Negativa de crédito precisa ser justificada?
+A relação de consumo e o acesso aos bens de consumo e as facilidades de pagamento são direitos dos consumidores, de modo que a concessão de crédito/crediário não comporta vetos ocultos. Diante disso, o consumidor tem o direito de saber sobre o motivo da recusa do crédito, seja por solicitação verbal ou escrita.Sendo assim a negativa precisa ser justificada.
 Fontes:
 https://www.oracle.com/br/database/what-is-database/
 https://aws.amazon.com/pt/what-is/neural-network/
 https://politics.org.br/edicoes/zero-rating-uma-introdu%C3%A7%C3%A3o-ao-debate
 https://aws.amazon.com/pt/what-is/cloud-storage/
 https://agenciabrasil.ebc.com.br/geral/noticia/2017-12/entenda-o-que-e-neutralidade-de-rede-e-como-e-o-seu-funcionamento-no-brasil
+https://elisangelacoelho.adv.br/mpf-investiga-se-o-inss-esta-negando-os-pedidos-sem-analise-justa/
+https://creditsbrasil.com.br/blog/deep-learning-na-analise-de-credito/
+https://www.jusbrasil.com.br/noticias/voce-sabia-que-e-ilicita-a-negativa-de-concessao-de-credito-crediario-sem-justificativa/259205660
 
