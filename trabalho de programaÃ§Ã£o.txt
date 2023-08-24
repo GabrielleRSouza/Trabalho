@@ -27,6 +27,22 @@ Assim, com um sistema de pontuação baseado em algoritmos de aprendizado profun
 
 Negativa de crédito precisa ser justificada?
 A relação de consumo e o acesso aos bens de consumo e as facilidades de pagamento são direitos dos consumidores, de modo que a concessão de crédito/crediário não comporta vetos ocultos. Diante disso, o consumidor tem o direito de saber sobre o motivo da recusa do crédito, seja por solicitação verbal ou escrita.Sendo assim a negativa precisa ser justificada.
+
+A relação entre a LGPD e os Data Centers no Brasil
+Por via de regra, Data Centers consistem em um conjunto de equipamentos utilizados por uma organização para o processamento e armazenamento de dados, sistemas e aplicações. Essa estrutura geralmente reúne servidores, bancos de dados informatizados e componentes auxiliares, como storages e ativos de rede (switches e roteadores). 
+Uma das funções mais importantes de um Data Center é assegurar que os dados e sistemas hospedados nele possam ser acessados a qualquer momento. Por isso, a infraestrutura de rede não pode ficar inoperante em razão de um problema de link de internet, por exemplo.Desse modo, o gestor da estrutura na qual estão hospedados os servidores precisa oferecer conexões redundantes, com mais de um fornecedor de rede.Então, considerando-se que o Data Center do controlador é o local onde rodam os sistemas nos quais são instalados e mantidos os dados, é essa a estrutura que deve, prioritariamente, operar com base nos preceitos da LGPD.
+
+Formatos de arquivos de dados proprietários e abertos
+Os Formatos abertos permitem que diversos softwares possam implementá-los, independentemente dos direitos de propriedade. Por isso, diversos educadores estão equivocados ao não se importarem com o formato em que salvam seus arquivos. Alguns professores alegam que o software e seus formatos equivaleriam a um caderno de notas. Entretanto, um texto escrito em um caderno poderá ser lido daqui a vinte anos sem nenhuma necessidade especial de intermediação. Já um arquivo salvo em um formato específico só poderá ser aberto e lido por um software. Caso o software proprietário não dê mais suporte àquele formato, ele não poderá ser lido. Não se lê um formato como se lê um texto escrito em folhas de papel.
+Exemplos de formatos:Microsoft Excel (.xls, .xlsx),Adobe PDF (.pdf),CSV (Comma-Separated Values),JSON (JavaScript Object Notation)
+Implicações Relacionadas a Dados Públicos:
+Acessibilidade: Formatos abertos, como CSV e JSON, são mais acessíveis ao público em geral, pois não exigem software proprietário para serem lidos. Isso promove a acessibilidade e a disseminação de dados públicos.
+Interoperabilidade: Formatos abertos são mais propensos a serem compatíveis com uma ampla variedade de ferramentas e sistemas, facilitando a integração e a análise de dados.
+Transparência: O uso de formatos abertos para dados públicos promove a transparência, pois torna mais fácil para o público e as organizações terem acesso e compreenderem os dados.
+Colaboração: A adoção de formatos abertos pode facilitar a colaboração entre diferentes organizações e partes interessadas, pois os dados podem ser compartilhados e usados com mais facilidade.
+Em resumo, a escolha de formatos de arquivo de dados pode ter um impacto significativo na acessibilidade, interoperabilidade, transparência e colaboração relacionadas a dados públicos. O uso de formatos abertos geralmente é preferível quando se trata de dados públicos, pois promove uma maior disponibilidade e uso desses dados.
+
+
 Fontes:
 https://www.oracle.com/br/database/what-is-database/
 https://aws.amazon.com/pt/what-is/neural-network/
@@ -36,4 +52,6 @@ https://agenciabrasil.ebc.com.br/geral/noticia/2017-12/entenda-o-que-e-neutralid
 https://elisangelacoelho.adv.br/mpf-investiga-se-o-inss-esta-negando-os-pedidos-sem-analise-justa/
 https://creditsbrasil.com.br/blog/deep-learning-na-analise-de-credito/
 https://www.jusbrasil.com.br/noticias/voce-sabia-que-e-ilicita-a-negativa-de-concessao-de-credito-crediario-sem-justificativa/259205660
+https://odatacolocation.com/blog/lgpd-para-datacenters/
+https://campusvirtual.fiocruz.br/portal/guiarea/OpenFormats.html
 
